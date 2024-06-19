@@ -33,8 +33,8 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/kathan-shah1893/video-call-react.git
-    cd video-call-react
+    git clone https://github.com/kathan-shah1893/ConferNow.git
+    cd ConferNow
     ```
 
 2. **Install dependencies for both client and server**
@@ -84,7 +84,7 @@ The application should now be running on `http://localhost:3000`.
 ## Project Structure
 
 ```sh
-video-call-react/
+ConferNow/
 │
 ├── client/                # React frontend
 │   ├── public/
@@ -122,7 +122,7 @@ Contact
 
 Kathan Shah - @kathan-shah1893
 
-Project Link: https://github.com/kathan-shah1893/video-call-react
+Project Link: https://github.com/kathan-shah1893/ConferNow
 
 Acknowledgements
 WebRTC
