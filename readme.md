@@ -114,9 +114,3 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
 Project Link: https://github.com/kathan-shah1893/ConferNow
-
-## Acknowledgements
-
-WebRTC
-React.js
-Node.js
