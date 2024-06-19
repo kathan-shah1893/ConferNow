@@ -117,6 +117,6 @@ Project Link: https://github.com/kathan-shah1893/ConferNow
 
 ## Acknowledgements
 
-# WebRTC
-# React.js
-# Node.js
+WebRTC
+React.js
+Node.js
