@@ -11,12 +11,6 @@ A video call application built with React.js using WebRTC for real-time communic
 - 🔒 Secure connections with WebRTC protocols
 - 🌐 Easy to use with a clean user interface
 
-## Demo
-
-![Demo](https://img.icons8.com/color/50/000000/video-conference.png)
-
-You can try out the live demo [here](#) (replace with actual demo link if available).
-
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
@@ -106,11 +100,11 @@ ConferNow/
 └── README.md
 ```
 
-Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
+# Fork the Project
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
@@ -118,14 +112,11 @@ Open a Pull Request
 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
-
-Kathan Shah - @kathan-shah1893
 
 Project Link: https://github.com/kathan-shah1893/ConferNow
 
-Acknowledgements
-WebRTC
-React.js
-Node.js
-Icons8 for icons
+## Acknowledgements
+
+# WebRTC
+# React.js
+# Node.js
